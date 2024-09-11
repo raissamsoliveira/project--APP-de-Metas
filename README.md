@@ -7,9 +7,8 @@ Este é um projeto simples de Gerenciador de Metas utilizando a biblioteca @inqu
 - **Cadastrar Metas:** Permite que o usuário adicione novas metas ao sistema.
 - **Listar Metas:** Exibe todas as metas cadastradas, permitindo que o usuário veja tanto as metas abertas quanto as realizadas.
 - **Marcar/Desmarcar Metas como Concluídas:** Permite que o usuário marque uma meta como concluída ou desmarque se desejar reabrir a meta.
-- **Remover Metas (Em desenvolvimento):** Planejado para permitir que o usuário remova metas indesejadas.
+- **Remover Metas:** Planejado para permitir que o usuário remova metas indesejadas.
 - **Sistema de Mensagens:** Exibe mensagens de feedback para o usuário durante as interações, como confirmação de metas cadastradas notificações sobre metas vazias, etc.
-
 
 ## Requisitos
 
@@ -51,9 +50,9 @@ Este é um projeto simples de Gerenciador de Metas utilizando a biblioteca @inqu
 - Listar Metas: Exibe as metas cadastradas e permite que o usuário marque ou desmarque como concluídas.
 - Sair: Encerra o programa.
 
-### Funcionalidades futuras
+### Desafios futuros
 
-- Remover metas: será implementada a capacidade de remover metas do sistema.
+- Criar aplicativo do Gerenciador de Metas
 
 ### Licença
 
