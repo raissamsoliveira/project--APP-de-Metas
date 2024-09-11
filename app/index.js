@@ -20,11 +20,6 @@ const salvarMetas = async() => {
 }
 
 const cadastrarMeta = async () => {
-    if (metas.length === 0) {
-        mensagem = "Não há metas cadastradas!";
-        return;
-    }
-    
     const meta = await input ({
         message: "Digite a meta: "
     })
